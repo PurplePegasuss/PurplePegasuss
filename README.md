@@ -1,17 +1,8 @@
+[![Social banner](https://github.com/PurplePegasuss/PurplePegasuss/raw/master/header.svg)](https://github.com/PurplePegasuss/PurplePegasuss)
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Jhey.
+</p>
+<p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
 
-<div align="center">
-	<br>
-	<a href="https://github.com/PurplePegasuss/PurplePegasuss/blame/main/header.svg">
-		<img src="header.svg" width="800" height="400" alt="Click to see the source">
-	</a>
-	<br>
-</div>
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<h1 align='center'><i>Stay awesome!</i></h1>
